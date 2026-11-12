@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="B2B.api/B2B.api.csproj" />
+  <Project Path="B2B.Web/b2b.web.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
